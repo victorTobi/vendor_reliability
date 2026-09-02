@@ -226,9 +226,9 @@ st.markdown(
     <div class="app-header">
         <div class="title">Vendor Reliability Scoring</div>
         <div class="subtitle">
-            Scores oil &amp; gas procurement vendors on delivery, quality, and payment history,
-            plus a smaller set of behavioral signals — RFQ responsiveness, quote consistency,
-            and dispute history — that standard scorecards leave out.
+            Scores Procurement vendors on delivery, quality, and payment history,
+            plus a smaller set of behavioral signals like RFQ responsiveness, quote consistency,
+            and dispute history that standard scorecards leave out.
         </div>
     </div>
     """,
