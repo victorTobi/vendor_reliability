@@ -1,0 +1,451 @@
+vendor_id,category,country,years_as_vendor,num_orders_completed,avg_order_value_usd,on_time_delivery_rate,defect_rejection_rate,lead_time_variance_days,price_competitiveness,payment_terms_compliance,rfq_response_time_hours,communication_responsiveness_score,price_volatility_across_quotes,dispute_frequency_per_year,has_iso_certification,reliability_score,risk_tier
+V0001,Valves & Actuators,Italy,7.3,31,13600.0,0.481,0.118,8.3,0.939,0.624,29.7,34.1,0.118,1.98,0,55.1,Approved
+V0002,Rotating Equipment Spares,China,7.7,37,4500.0,0.265,0.153,11.0,0.899,0.319,36.3,35.1,0.105,1.38,0,38.8,Watchlist
+V0003,Industrial Chemicals,Nigeria,6.4,13,21800.0,0.893,0.026,0.2,0.99,0.591,19.0,94.9,0.057,0.0,1,92.2,Preferred
+V0004,Safety Equipment (PPE),UAE,1.3,1,8600.0,0.438,0.149,7.3,1.073,0.455,42.6,35.2,0.095,0.0,1,48.0,Watchlist
+V0005,Safety Equipment (PPE),China,1.7,8,73100.0,0.704,0.022,3.5,0.832,0.65,6.7,75.7,0.011,1.32,1,76.5,Preferred
+V0006,Structural Steel,China,8.3,49,13300.0,0.226,0.188,8.4,1.222,0.512,31.7,25.2,0.19,2.62,0,26.9,High Risk
+V0007,Valves & Actuators,United States,10.0,82,1800.0,0.559,0.072,6.3,0.838,0.667,42.1,74.0,0.087,1.36,1,64.8,Approved
+V0008,Industrial Chemicals,Singapore,1.4,3,18400.0,0.659,0.142,3.3,0.897,0.431,36.4,84.1,0.01,2.56,0,59.0,Approved
+V0009,Instrumentation,Nigeria,3.6,18,76900.0,0.159,0.167,7.6,1.289,0.224,33.1,33.8,0.086,2.83,0,32.3,High Risk
+V0010,Valves & Actuators,Italy,8.0,63,55200.0,0.56,0.108,3.4,1.121,0.259,27.1,67.0,0.055,2.7,0,58.7,Approved
+V0011,Drilling Tools,Germany,5.2,36,69400.0,0.789,0.047,3.0,0.886,0.609,17.9,87.1,0.021,0.0,1,79.4,Preferred
+V0012,Subsea Hardware,United States,5.0,27,5300.0,0.439,0.199,9.9,1.059,0.596,33.3,21.8,0.155,4.11,0,35.6,Watchlist
+V0013,Rotating Equipment Spares,India,1.2,10,30400.0,0.132,0.221,11.0,1.108,0.474,50.9,6.7,0.207,4.44,0,11.3,High Risk
+V0014,Rotating Equipment Spares,China,3.2,15,7000.0,0.46,0.161,2.9,0.589,0.619,60.6,29.2,0.174,1.81,1,53.3,Watchlist
+V0015,Rotating Equipment Spares,China,11.0,66,16300.0,0.141,0.218,6.2,0.909,0.292,40.4,11.3,0.198,3.88,0,14.9,High Risk
+V0016,Rotating Equipment Spares,Germany,2.9,27,4200.0,0.233,0.15,8.1,1.009,0.357,41.0,56.5,0.189,0.92,1,42.2,Watchlist
+V0017,Drilling Tools,India,1.6,10,7500.0,0.397,0.124,10.9,0.951,0.335,10.5,53.6,0.154,1.43,1,47.0,Watchlist
+V0018,Pipes & Fittings,China,1.4,2,7300.0,0.125,0.221,12.4,1.122,0.443,39.5,14.0,0.207,4.78,0,10.7,High Risk
+V0019,Structural Steel,Nigeria,2.6,8,30000.0,0.111,0.219,10.2,1.25,0.171,59.3,2.1,0.248,1.7,0,12.6,High Risk
+V0020,Safety Equipment (PPE),Nigeria,4.0,11,27500.0,0.717,0.118,6.4,0.928,0.863,30.5,89.8,0.144,1.57,1,68.9,Approved
+V0021,Drilling Tools,Germany,3.2,15,17100.0,0.31,0.173,7.1,0.867,0.611,1.0,21.6,0.162,2.65,0,43.2,Watchlist
+V0022,Electrical Equipment,Nigeria,10.0,75,4000.0,0.064,0.242,13.3,1.177,0.051,61.2,23.5,0.299,6.19,0,0.0,High Risk
+V0023,Pipes & Fittings,United States,0.7,1,10100.0,0.696,0.039,1.1,0.912,0.58,46.0,42.7,0.01,0.0,1,79.0,Preferred
+V0024,Subsea Hardware,United Kingdom,3.8,36,6800.0,0.614,0.07,8.6,0.963,0.459,3.6,41.3,0.093,2.75,0,60.3,Approved
+V0025,Rotating Equipment Spares,United States,4.9,18,29200.0,0.328,0.225,1.9,0.992,0.331,54.7,7.3,0.137,1.88,1,28.5,High Risk
+V0026,Industrial Chemicals,UAE,6.9,36,38600.0,0.345,0.208,12.2,1.402,0.224,8.6,23.9,0.237,2.65,1,23.5,High Risk
+V0027,Safety Equipment (PPE),Germany,4.5,23,34600.0,0.665,0.044,2.2,0.622,0.932,33.7,51.0,0.161,0.0,1,83.0,Preferred
+V0028,Structural Steel,United States,4.6,33,6800.0,0.599,0.15,3.9,0.924,0.41,26.8,38.4,0.032,0.24,0,56.6,Approved
+V0029,Drilling Tools,China,7.0,40,1100.0,0.926,0.013,2.6,0.88,0.911,1.0,82.1,0.083,0.0,0,88.1,Preferred
+V0030,Safety Equipment (PPE),China,3.8,20,2700.0,0.626,0.113,2.9,0.862,0.696,31.6,74.7,0.043,0.14,1,68.5,Approved
+V0031,Safety Equipment (PPE),India,0.3,7,48000.0,0.554,0.089,3.1,1.116,0.596,40.3,73.0,0.045,1.84,1,61.2,Approved
+V0032,Instrumentation,Germany,1.2,15,9300.0,0.264,0.127,6.2,1.13,0.484,35.9,78.0,0.116,1.19,0,45.7,Watchlist
+V0033,Valves & Actuators,China,3.3,14,6800.0,0.678,0.06,4.4,0.952,0.525,29.7,58.7,0.067,0.0,1,74.4,Approved
+V0034,Drilling Tools,China,1.8,19,58600.0,0.552,0.041,2.9,0.928,0.665,19.4,70.3,0.014,0.44,0,74.4,Approved
+V0035,Structural Steel,Nigeria,16.5,80,41700.0,0.655,0.039,0.2,0.921,0.822,1.0,58.6,0.096,0.53,1,79.2,Preferred
+V0036,Valves & Actuators,China,2.4,12,13700.0,0.257,0.175,5.5,1.01,0.436,43.0,30.1,0.177,1.92,1,35.2,Watchlist
+V0037,Structural Steel,Germany,1.1,3,10300.0,0.252,0.211,10.6,1.01,0.496,54.9,29.0,0.192,2.11,0,20.8,High Risk
+V0038,Structural Steel,United Kingdom,3.2,17,11900.0,0.429,0.166,7.7,0.996,0.624,47.9,46.1,0.12,2.75,0,51.3,Watchlist
+V0039,Instrumentation,China,3.7,27,16400.0,0.781,0.02,4.6,0.998,0.799,1.0,84.3,0.082,1.7,1,80.6,Preferred
+V0040,Industrial Chemicals,Italy,2.5,18,56400.0,0.793,0.03,0.6,1.038,0.813,1.0,92.0,0.051,0.0,1,84.4,Preferred
+V0041,Pipes & Fittings,China,4.6,6,19500.0,0.329,0.226,5.8,0.838,0.237,24.0,23.5,0.225,1.16,1,26.7,High Risk
+V0042,Rotating Equipment Spares,United Kingdom,0.9,4,25700.0,0.188,0.186,11.6,0.864,0.316,14.7,58.2,0.01,2.14,1,30.9,High Risk
+V0043,Rotating Equipment Spares,China,2.0,23,38300.0,0.532,0.073,4.5,0.722,0.543,27.7,57.7,0.058,1.68,1,71.9,Approved
+V0044,Electrical Equipment,China,3.5,26,4700.0,0.476,0.166,5.7,1.142,0.489,36.9,37.1,0.131,0.56,0,47.8,Watchlist
+V0045,Valves & Actuators,China,3.2,24,26400.0,0.825,0.039,5.7,0.99,0.647,4.3,61.8,0.023,0.0,0,84.7,Preferred
+V0046,Subsea Hardware,China,4.8,40,10200.0,0.074,0.223,11.4,1.188,0.079,59.6,5.1,0.208,3.43,0,8.2,High Risk
+V0047,Safety Equipment (PPE),China,9.6,88,1400.0,0.384,0.176,7.2,0.827,0.182,44.7,61.9,0.151,2.32,0,35.6,Watchlist
+V0048,Structural Steel,China,2.7,20,2000.0,0.157,0.186,8.5,1.307,0.15,30.5,35.1,0.122,1.78,0,24.4,High Risk
+V0049,Industrial Chemicals,Nigeria,11.4,50,5300.0,0.066,0.217,13.4,1.025,0.103,48.8,8.2,0.228,4.79,0,6.0,High Risk
+V0050,Rotating Equipment Spares,UAE,0.8,13,21500.0,0.306,0.159,9.7,1.073,0.144,15.3,21.9,0.195,1.22,1,39.4,Watchlist
+V0051,Rotating Equipment Spares,United States,9.3,59,14800.0,0.438,0.192,14.2,1.174,0.188,34.2,72.1,0.149,1.18,0,28.1,High Risk
+V0052,Pipes & Fittings,United Kingdom,1.0,9,15800.0,0.503,0.126,7.5,0.862,0.394,31.9,69.5,0.106,1.52,0,51.5,Watchlist
+V0053,Electrical Equipment,Nigeria,5.4,35,77300.0,0.79,0.057,0.2,0.862,0.547,22.0,65.6,0.062,0.22,1,71.2,Approved
+V0054,Safety Equipment (PPE),South Korea,2.0,3,4300.0,0.194,0.1,7.6,1.039,0.51,36.8,38.0,0.131,0.56,1,50.0,Watchlist
+V0055,Safety Equipment (PPE),Germany,1.6,22,13000.0,0.109,0.214,9.4,1.48,0.386,42.2,21.3,0.079,2.19,0,18.2,High Risk
+V0056,Valves & Actuators,China,14.7,69,17600.0,0.5,0.087,6.3,1.048,0.402,27.3,51.4,0.146,1.3,1,57.8,Approved
+V0057,Drilling Tools,China,7.2,27,6900.0,0.75,0.102,3.3,1.188,0.674,24.0,64.4,0.05,0.09,1,68.9,Approved
+V0058,Pipes & Fittings,China,2.8,11,13700.0,0.154,0.14,9.1,1.23,0.367,50.8,32.7,0.227,2.81,0,31.0,High Risk
+V0059,Rotating Equipment Spares,China,0.3,1,3200.0,0.253,0.157,8.8,1.101,0.216,37.0,54.0,0.191,2.01,0,35.7,Watchlist
+V0060,Industrial Chemicals,Nigeria,0.8,4,47500.0,0.681,0.096,5.7,0.824,0.508,28.8,39.3,0.153,2.32,1,60.4,Approved
+V0061,Subsea Hardware,United States,1.1,11,7200.0,0.557,0.196,5.4,1.17,0.647,29.8,24.1,0.079,2.28,1,45.3,Watchlist
+V0062,Rotating Equipment Spares,China,3.8,21,83100.0,0.706,0.086,1.6,0.743,0.771,16.4,58.1,0.072,0.16,1,78.8,Preferred
+V0063,Electrical Equipment,United Kingdom,5.0,12,13000.0,0.655,0.147,13.6,1.241,0.6,36.4,41.0,0.058,1.7,1,63.2,Approved
+V0064,Subsea Hardware,Nigeria,1.9,9,33700.0,0.706,0.072,2.0,0.995,0.784,17.0,91.5,0.053,0.94,1,79.0,Preferred
+V0065,Safety Equipment (PPE),China,5.7,39,12700.0,0.212,0.169,9.6,0.654,0.108,43.9,41.6,0.229,3.83,0,30.7,High Risk
+V0066,Electrical Equipment,Germany,5.5,27,13000.0,0.636,0.108,2.3,0.95,0.712,30.4,67.7,0.195,1.07,0,65.2,Approved
+V0067,Subsea Hardware,China,2.2,2,7900.0,0.313,0.097,7.0,1.109,0.52,28.2,39.1,0.072,2.52,0,45.6,Watchlist
+V0068,Electrical Equipment,Italy,0.7,12,14900.0,0.497,0.173,7.6,1.025,0.387,37.0,17.3,0.152,2.98,1,39.8,Watchlist
+V0069,Valves & Actuators,China,0.3,4,17800.0,0.161,0.227,9.9,1.185,0.235,38.0,5.3,0.187,4.66,0,3.9,High Risk
+V0070,Safety Equipment (PPE),Germany,5.0,21,6600.0,0.74,0.043,6.4,0.838,0.669,4.1,79.9,0.118,2.01,0,75.6,Preferred
+V0071,Rotating Equipment Spares,South Korea,3.6,25,11900.0,0.46,0.164,8.3,0.822,0.379,37.8,50.2,0.048,2.16,0,43.6,Watchlist
+V0072,Pipes & Fittings,Singapore,5.3,53,7700.0,0.432,0.158,10.7,1.04,0.332,42.0,47.6,0.086,2.49,0,36.4,Watchlist
+V0073,Safety Equipment (PPE),Germany,8.6,71,105800.0,0.576,0.144,1.9,1.01,0.431,41.1,43.2,0.149,2.16,0,63.0,Approved
+V0074,Pipes & Fittings,India,11.3,74,12300.0,0.634,0.037,7.0,0.891,0.838,13.5,75.5,0.01,0.2,1,75.8,Preferred
+V0075,Industrial Chemicals,UAE,6.6,44,53700.0,0.128,0.245,10.3,1.298,0.061,73.3,8.5,0.2,5.62,0,0.0,High Risk
+V0076,Safety Equipment (PPE),India,2.0,11,11200.0,0.132,0.224,14.6,0.947,0.156,38.9,28.2,0.195,3.32,0,11.0,High Risk
+V0077,Electrical Equipment,China,2.8,22,16900.0,0.254,0.219,11.5,1.093,0.623,27.8,10.1,0.182,2.25,0,20.0,High Risk
+V0078,Instrumentation,Nigeria,7.7,58,4100.0,0.754,0.022,2.8,0.937,0.729,4.9,90.0,0.047,0.0,1,89.2,Preferred
+V0079,Drilling Tools,Nigeria,2.0,21,8900.0,0.654,0.104,3.0,0.752,0.532,6.6,57.3,0.089,0.2,1,67.4,Approved
+V0080,Industrial Chemicals,Germany,2.3,15,16100.0,0.648,0.042,3.9,0.764,0.54,41.5,49.9,0.128,1.26,1,67.5,Approved
+V0081,Subsea Hardware,United States,5.9,25,55700.0,0.209,0.194,8.5,1.059,0.304,56.7,5.1,0.186,2.12,1,24.6,High Risk
+V0082,Safety Equipment (PPE),United States,10.7,84,16300.0,0.185,0.196,9.7,1.353,0.185,47.3,20.7,0.138,3.82,0,21.9,High Risk
+V0083,Pipes & Fittings,UAE,7.5,62,46400.0,0.82,0.066,3.9,1.064,0.58,15.2,83.9,0.102,0.0,1,81.9,Preferred
+V0084,Structural Steel,China,6.4,33,23800.0,0.753,0.077,0.7,0.738,0.655,51.2,80.3,0.137,1.65,0,73.8,Approved
+V0085,Industrial Chemicals,China,3.7,34,57800.0,0.67,0.043,7.0,0.506,0.519,20.8,70.8,0.181,2.03,1,70.1,Approved
+V0086,Rotating Equipment Spares,United States,1.7,4,12700.0,0.45,0.06,6.4,1.119,0.591,28.5,79.6,0.168,0.0,0,66.9,Approved
+V0087,Valves & Actuators,United States,6.0,58,114800.0,0.537,0.067,3.9,0.972,0.696,44.7,56.7,0.168,3.11,0,63.7,Approved
+V0088,Electrical Equipment,China,10.1,77,8600.0,0.687,0.136,4.1,1.163,0.705,36.5,71.8,0.082,1.04,0,67.2,Approved
+V0089,Rotating Equipment Spares,United Kingdom,3.0,8,6700.0,0.688,0.031,4.4,0.829,0.701,49.4,62.1,0.059,0.87,1,70.0,Approved
+V0090,Structural Steel,United Kingdom,2.5,16,4500.0,0.686,0.033,1.2,1.012,0.938,25.7,61.7,0.072,1.23,1,83.1,Preferred
+V0091,Safety Equipment (PPE),United Kingdom,1.6,15,108900.0,0.191,0.24,5.5,1.208,0.308,39.8,8.9,0.186,4.04,0,12.1,High Risk
+V0092,Structural Steel,United Kingdom,3.9,21,27900.0,0.077,0.232,14.2,1.045,0.141,42.9,1.6,0.171,4.32,0,0.0,High Risk
+V0093,Structural Steel,UAE,8.6,70,9900.0,0.769,0.062,4.1,0.886,0.596,1.0,89.4,0.138,1.4,0,81.4,Preferred
+V0094,Electrical Equipment,United Kingdom,0.9,1,41100.0,0.654,0.06,1.7,0.944,0.746,16.0,68.9,0.111,0.76,1,71.2,Approved
+V0095,Structural Steel,Italy,3.4,27,24800.0,0.291,0.212,6.4,1.132,0.5,52.9,14.6,0.151,4.31,0,29.5,High Risk
+V0096,Instrumentation,South Korea,0.3,1,78400.0,0.222,0.205,12.2,1.091,0.353,53.9,4.8,0.236,4.12,0,15.6,High Risk
+V0097,Instrumentation,Nigeria,12.8,49,3300.0,0.625,0.108,2.0,1.141,0.749,29.4,48.6,0.127,3.26,1,66.6,Approved
+V0098,Industrial Chemicals,United Kingdom,4.5,27,10500.0,0.859,0.025,0.5,0.884,0.804,9.7,91.9,0.114,1.39,1,86.6,Preferred
+V0099,Industrial Chemicals,Nigeria,3.4,9,8800.0,0.844,0.074,0.2,0.711,0.709,16.5,97.5,0.01,0.0,1,80.1,Preferred
+V0100,Pipes & Fittings,Germany,4.7,16,2300.0,0.683,0.041,6.5,1.271,0.697,37.5,31.8,0.089,3.38,0,67.2,Approved
+V0101,Structural Steel,UAE,0.6,7,34700.0,0.277,0.116,6.3,0.928,0.243,38.5,33.3,0.134,1.49,0,46.2,Watchlist
+V0102,Pipes & Fittings,Germany,0.9,12,10500.0,0.23,0.158,7.7,0.959,0.15,40.0,14.1,0.191,3.93,0,33.5,High Risk
+V0103,Structural Steel,Nigeria,3.8,29,26000.0,0.606,0.072,10.9,0.99,0.547,20.3,69.1,0.088,1.61,0,62.8,Approved
+V0104,Valves & Actuators,UAE,6.1,52,111700.0,0.42,0.192,7.8,1.025,0.521,43.1,47.5,0.01,2.88,1,31.5,High Risk
+V0105,Rotating Equipment Spares,United Kingdom,0.3,2,9700.0,0.134,0.235,10.1,0.993,0.415,1.6,16.4,0.112,2.1,0,11.1,High Risk
+V0106,Rotating Equipment Spares,India,9.2,84,9100.0,0.85,0.012,0.2,0.895,0.901,16.2,91.0,0.025,0.0,1,100.0,Preferred
+V0107,Rotating Equipment Spares,China,3.5,28,14900.0,0.807,0.011,0.2,0.905,0.882,44.8,82.9,0.043,0.0,1,84.9,Preferred
+V0108,Industrial Chemicals,UAE,6.9,40,32500.0,0.831,0.014,0.2,0.969,0.609,1.7,92.7,0.153,1.77,1,90.0,Preferred
+V0109,Safety Equipment (PPE),Germany,4.6,23,8000.0,0.489,0.185,11.4,0.692,0.287,35.4,36.0,0.191,3.01,0,31.1,High Risk
+V0110,Rotating Equipment Spares,China,12.1,68,7600.0,0.844,0.053,4.4,1.239,0.458,22.2,81.4,0.086,1.5,1,76.1,Preferred
+V0111,Instrumentation,Nigeria,5.1,25,34600.0,0.446,0.057,3.5,0.946,0.332,18.7,19.3,0.09,0.0,1,63.5,Approved
+V0112,Rotating Equipment Spares,China,8.4,41,18800.0,0.782,0.098,4.2,1.065,0.717,38.5,60.7,0.155,1.04,1,69.0,Approved
+V0113,Drilling Tools,India,2.8,13,2100.0,0.869,0.05,3.8,0.731,0.669,24.4,95.4,0.034,0.59,0,89.2,Preferred
+V0114,Safety Equipment (PPE),China,1.0,16,4400.0,0.492,0.087,0.2,0.898,0.768,26.1,85.3,0.084,1.1,0,70.8,Approved
+V0115,Drilling Tools,Italy,7.5,51,51600.0,0.681,0.06,2.2,0.862,0.809,32.9,34.0,0.032,1.65,1,75.8,Preferred
+V0116,Drilling Tools,China,1.0,13,19200.0,0.792,0.046,1.1,1.189,0.553,24.5,61.1,0.162,0.57,1,77.0,Preferred
+V0117,Valves & Actuators,Italy,6.3,51,6700.0,0.672,0.122,9.3,0.895,0.676,65.1,35.7,0.124,1.27,1,61.4,Approved
+V0118,Pipes & Fittings,Germany,0.7,3,11500.0,0.083,0.228,13.9,1.203,0.121,47.9,35.6,0.165,4.63,0,9.4,High Risk
+V0119,Instrumentation,Nigeria,4.5,42,13500.0,0.607,0.151,0.2,0.898,0.248,31.6,57.1,0.111,0.0,1,60.5,Approved
+V0120,Pipes & Fittings,India,11.7,86,25900.0,0.152,0.192,4.0,0.96,0.395,14.5,22.7,0.171,2.74,0,35.9,Watchlist
+V0121,Safety Equipment (PPE),India,5.4,43,3900.0,0.165,0.173,9.8,1.027,0.188,35.0,20.1,0.165,2.71,0,24.9,High Risk
+V0122,Industrial Chemicals,Italy,3.8,37,6300.0,0.909,0.011,0.2,1.108,0.788,28.6,44.1,0.018,0.0,1,92.4,Preferred
+V0123,Industrial Chemicals,China,5.7,29,17100.0,0.877,0.016,0.2,0.63,0.94,1.0,73.8,0.01,0.0,1,95.8,Preferred
+V0124,Safety Equipment (PPE),Nigeria,2.9,13,12200.0,0.799,0.021,6.5,0.735,0.574,1.0,82.1,0.076,1.21,1,76.3,Preferred
+V0125,Structural Steel,China,15.0,65,22400.0,0.688,0.133,6.0,0.695,0.627,28.1,72.3,0.091,2.25,0,65.2,Approved
+V0126,Drilling Tools,Nigeria,2.5,19,4400.0,0.88,0.044,2.9,0.769,0.655,34.3,48.3,0.037,0.0,0,82.1,Preferred
+V0127,Valves & Actuators,China,3.4,24,18400.0,0.672,0.164,4.2,0.878,0.654,30.4,42.8,0.053,2.37,1,56.1,Approved
+V0128,Rotating Equipment Spares,Nigeria,5.6,28,35700.0,0.673,0.123,7.2,0.748,0.601,24.1,73.7,0.115,2.16,1,65.0,Approved
+V0129,Drilling Tools,Nigeria,4.3,42,20700.0,0.313,0.206,8.5,0.945,0.319,17.5,8.6,0.16,2.72,0,26.8,High Risk
+V0130,Industrial Chemicals,United States,5.3,20,15100.0,0.707,0.138,4.0,0.678,0.443,31.9,65.0,0.086,0.54,1,65.1,Approved
+V0131,Drilling Tools,Nigeria,2.4,22,12300.0,0.555,0.138,7.3,0.844,0.394,37.4,53.0,0.127,0.96,1,55.0,Approved
+V0132,Drilling Tools,India,2.5,20,6300.0,0.181,0.212,6.1,1.245,0.355,20.3,48.5,0.216,3.79,0,22.4,High Risk
+V0133,Valves & Actuators,India,6.9,26,12500.0,0.452,0.181,10.2,1.063,0.758,44.1,44.0,0.157,1.62,0,42.1,Watchlist
+V0134,Drilling Tools,Nigeria,6.7,40,41500.0,0.322,0.136,6.7,1.032,0.566,39.9,44.4,0.151,0.75,0,50.5,Watchlist
+V0135,Rotating Equipment Spares,Nigeria,5.6,55,12000.0,0.837,0.019,3.5,0.76,0.755,27.4,93.5,0.027,0.0,1,84.8,Preferred
+V0136,Electrical Equipment,Italy,9.2,34,6000.0,0.722,0.04,0.4,0.725,0.748,29.0,48.1,0.051,1.37,1,88.0,Preferred
+V0137,Industrial Chemicals,China,7.1,47,8600.0,0.536,0.15,3.7,0.829,0.835,37.7,45.9,0.067,1.1,0,57.4,Approved
+V0138,Valves & Actuators,China,6.7,22,16000.0,0.744,0.151,2.3,0.981,0.58,34.0,47.7,0.079,1.62,0,63.7,Approved
+V0139,Electrical Equipment,China,0.8,1,9500.0,0.508,0.12,6.5,1.128,0.737,40.0,48.4,0.119,2.67,1,55.9,Approved
+V0140,Safety Equipment (PPE),UAE,4.7,24,20700.0,0.571,0.185,6.8,1.146,0.341,10.0,61.2,0.09,0.65,1,55.9,Approved
+V0141,Subsea Hardware,United States,3.8,34,21400.0,0.316,0.139,8.3,1.149,0.265,21.7,32.1,0.174,2.75,0,37.5,Watchlist
+V0142,Instrumentation,India,9.6,71,29700.0,0.422,0.135,3.9,0.897,0.572,22.5,31.8,0.079,1.61,1,57.2,Approved
+V0143,Instrumentation,UAE,2.9,17,48100.0,0.351,0.18,5.2,1.041,0.396,35.2,32.9,0.071,2.76,0,40.0,Watchlist
+V0144,Safety Equipment (PPE),United Kingdom,3.4,14,32700.0,0.167,0.192,9.9,1.014,0.166,45.9,45.4,0.217,4.09,0,21.1,High Risk
+V0145,Subsea Hardware,South Korea,1.6,17,5800.0,0.787,0.171,3.2,0.944,0.492,29.3,47.4,0.073,0.0,1,66.9,Approved
+V0146,Structural Steel,India,1.8,13,5900.0,0.695,0.092,3.0,1.286,0.74,39.9,63.3,0.061,1.68,1,75.7,Preferred
+V0147,Valves & Actuators,China,9.0,52,12500.0,0.085,0.222,15.6,0.825,0.294,59.9,10.7,0.146,4.49,0,3.2,High Risk
+V0148,Instrumentation,United Kingdom,5.1,26,8900.0,0.483,0.136,6.2,0.971,0.712,20.6,45.4,0.147,1.57,1,58.3,Approved
+V0149,Structural Steel,United Kingdom,12.3,40,4800.0,0.874,0.019,6.0,1.132,0.89,23.9,44.8,0.144,0.38,1,76.6,Preferred
+V0150,Valves & Actuators,China,3.6,27,9000.0,0.768,0.034,1.3,0.727,0.752,10.3,90.8,0.052,0.81,1,85.1,Preferred
+V0151,Structural Steel,China,1.4,7,8700.0,0.812,0.081,3.3,0.852,0.687,18.5,62.5,0.063,0.78,1,74.9,Approved
+V0152,Instrumentation,Italy,2.8,27,7300.0,0.585,0.099,5.7,0.919,0.722,33.5,70.3,0.172,2.08,0,63.2,Approved
+V0153,Subsea Hardware,United States,2.1,6,10100.0,0.177,0.161,4.5,1.009,0.424,1.0,19.4,0.068,3.03,0,34.8,High Risk
+V0154,Instrumentation,United States,5.6,39,38600.0,0.257,0.225,13.0,0.815,0.168,68.7,15.5,0.267,1.91,0,12.1,High Risk
+V0155,Safety Equipment (PPE),India,6.0,25,16000.0,0.421,0.147,4.6,1.072,0.416,33.7,79.4,0.227,2.11,0,45.5,Watchlist
+V0156,Industrial Chemicals,Nigeria,5.5,17,123600.0,0.535,0.114,6.7,1.081,0.67,19.4,77.1,0.01,2.23,0,64.0,Approved
+V0157,Pipes & Fittings,Italy,14.9,126,15600.0,0.878,0.031,0.2,1.012,0.754,41.5,83.0,0.057,0.35,1,82.9,Preferred
+V0158,Drilling Tools,India,9.0,69,10300.0,0.817,0.043,2.1,0.814,0.739,15.9,86.0,0.035,0.0,1,82.5,Preferred
+V0159,Drilling Tools,United States,1.7,5,13400.0,0.418,0.106,4.3,1.02,0.647,32.8,40.7,0.113,1.64,0,61.9,Approved
+V0160,Rotating Equipment Spares,United Kingdom,6.8,35,16800.0,0.218,0.184,13.1,0.927,0.343,35.4,20.2,0.155,3.14,0,27.1,High Risk
+V0161,Subsea Hardware,Singapore,3.6,25,19800.0,0.393,0.112,7.8,0.966,0.646,52.7,29.3,0.175,0.92,1,56.0,Approved
+V0162,Industrial Chemicals,India,3.2,14,86600.0,0.57,0.086,6.2,1.312,0.261,26.8,72.4,0.105,1.04,1,66.5,Approved
+V0163,Safety Equipment (PPE),Italy,9.2,46,6200.0,0.525,0.103,10.0,1.024,0.499,33.6,31.5,0.084,0.55,1,54.1,Watchlist
+V0164,Safety Equipment (PPE),China,1.4,8,28900.0,0.251,0.113,10.7,0.851,0.483,49.6,63.5,0.137,2.78,0,49.0,Watchlist
+V0165,Safety Equipment (PPE),Germany,7.1,29,16100.0,0.584,0.113,7.1,1.014,0.321,34.7,50.6,0.134,1.47,1,51.6,Watchlist
+V0166,Structural Steel,UAE,6.0,51,3200.0,0.311,0.172,4.1,0.822,0.293,33.9,36.9,0.083,0.67,0,44.9,Watchlist
+V0167,Electrical Equipment,China,1.4,6,26700.0,0.174,0.216,6.3,0.852,0.247,49.0,47.9,0.066,2.61,0,20.1,High Risk
+V0168,Pipes & Fittings,Nigeria,0.8,1,41800.0,0.474,0.077,2.5,0.828,0.582,57.7,58.9,0.206,1.21,1,57.7,Approved
+V0169,Electrical Equipment,UAE,3.3,22,6200.0,0.584,0.167,9.1,0.953,0.673,37.4,33.6,0.106,2.51,0,52.4,Watchlist
+V0170,Valves & Actuators,China,8.0,47,13300.0,0.625,0.117,5.6,1.128,0.828,29.2,56.1,0.102,0.98,1,70.4,Approved
+V0171,Pipes & Fittings,United States,4.9,41,2800.0,0.409,0.094,1.6,1.073,0.435,29.6,73.4,0.088,0.58,1,64.9,Approved
+V0172,Valves & Actuators,Germany,9.0,28,4300.0,0.117,0.218,9.2,1.135,0.33,56.0,14.4,0.199,2.16,1,15.3,High Risk
+V0173,Rotating Equipment Spares,United Kingdom,4.4,38,34300.0,0.34,0.187,3.8,0.859,0.484,27.1,34.7,0.23,1.65,0,39.2,Watchlist
+V0174,Rotating Equipment Spares,United States,10.5,79,8800.0,0.905,0.04,1.3,0.847,0.834,13.7,83.1,0.084,0.04,1,91.2,Preferred
+V0175,Industrial Chemicals,United States,1.8,10,4900.0,0.184,0.199,5.6,1.099,0.308,22.0,35.7,0.096,3.01,1,29.0,High Risk
+V0176,Safety Equipment (PPE),United Kingdom,4.5,17,16400.0,0.141,0.232,14.1,1.012,0.153,34.8,8.3,0.146,3.76,0,7.6,High Risk
+V0177,Rotating Equipment Spares,South Korea,1.9,9,8300.0,0.125,0.208,12.9,1.051,0.349,40.5,35.4,0.184,3.27,0,16.8,High Risk
+V0178,Pipes & Fittings,India,3.4,23,8700.0,0.572,0.093,10.7,1.065,0.686,29.1,47.7,0.105,1.25,1,63.9,Approved
+V0179,Subsea Hardware,China,3.9,30,26000.0,0.337,0.1,8.0,0.946,0.343,51.0,46.1,0.033,3.82,0,41.1,Watchlist
+V0180,Drilling Tools,Singapore,4.7,21,4700.0,0.588,0.093,5.3,1.04,0.608,37.5,43.4,0.166,1.04,1,62.4,Approved
+V0181,Subsea Hardware,South Korea,2.5,7,5900.0,0.786,0.053,4.2,1.178,0.85,8.1,57.0,0.011,0.0,0,78.0,Preferred
+V0182,Pipes & Fittings,United Kingdom,4.1,25,15300.0,0.084,0.246,11.1,1.108,0.105,45.3,2.3,0.315,7.5,0,0.0,High Risk
+V0183,Safety Equipment (PPE),Germany,3.9,15,32000.0,0.515,0.064,2.3,1.157,0.758,42.9,50.3,0.193,1.54,1,71.6,Approved
+V0184,Industrial Chemicals,China,1.6,11,40700.0,0.867,0.034,1.8,1.006,0.832,29.5,93.3,0.037,0.0,1,87.0,Preferred
+V0185,Safety Equipment (PPE),Singapore,0.3,1,7300.0,0.233,0.175,4.2,0.836,0.288,40.5,22.0,0.193,3.6,1,32.4,High Risk
+V0186,Safety Equipment (PPE),UAE,7.7,30,31100.0,0.364,0.144,7.1,0.854,0.435,28.1,30.9,0.075,1.2,0,51.9,Watchlist
+V0187,Pipes & Fittings,UAE,2.9,15,6600.0,0.327,0.159,5.9,0.913,0.128,50.3,53.8,0.185,3.25,0,30.5,High Risk
+V0188,Electrical Equipment,China,0.5,10,69100.0,0.226,0.205,9.1,0.916,0.295,26.1,56.4,0.135,2.39,0,24.4,High Risk
+V0189,Instrumentation,South Korea,10.8,54,4800.0,0.32,0.126,4.3,1.003,0.326,37.6,65.6,0.08,1.56,0,52.1,Watchlist
+V0190,Electrical Equipment,China,6.1,46,44200.0,0.906,0.056,2.5,1.021,0.643,44.4,70.8,0.041,1.48,1,70.7,Approved
+V0191,Industrial Chemicals,China,5.4,39,7400.0,0.915,0.018,0.2,1.096,0.928,15.9,83.5,0.014,0.09,1,91.0,Preferred
+V0192,Industrial Chemicals,China,1.7,10,81800.0,0.305,0.128,10.6,1.063,0.509,23.7,74.7,0.119,2.85,0,51.1,Watchlist
+V0193,Industrial Chemicals,India,1.7,23,22700.0,0.908,0.01,0.2,0.838,0.855,17.8,90.8,0.082,0.0,1,96.7,Preferred
+V0194,Electrical Equipment,China,4.2,32,5400.0,0.412,0.132,4.0,0.686,0.42,24.0,45.6,0.079,1.16,1,56.2,Approved
+V0195,Subsea Hardware,South Korea,4.3,17,8300.0,0.816,0.037,0.2,0.923,0.863,1.0,92.4,0.128,0.22,0,91.6,Preferred
+V0196,Valves & Actuators,UAE,1.4,18,27000.0,0.608,0.143,2.9,1.009,0.644,39.3,66.9,0.058,2.79,1,63.0,Approved
+V0197,Electrical Equipment,China,1.4,7,34500.0,0.322,0.191,6.6,1.021,0.4,42.2,42.2,0.195,1.58,1,36.1,Watchlist
+V0198,Pipes & Fittings,China,1.4,5,12500.0,0.72,0.149,6.3,1.298,0.59,23.0,64.1,0.053,2.82,0,62.1,Approved
+V0199,Electrical Equipment,China,2.5,11,13900.0,0.938,0.003,2.0,1.027,0.959,1.0,98.6,0.01,0.0,1,98.0,Preferred
+V0200,Subsea Hardware,Nigeria,2.5,19,26400.0,0.719,0.054,1.7,1.075,0.388,10.8,50.2,0.057,0.85,1,71.8,Approved
+V0201,Electrical Equipment,Germany,4.4,34,15000.0,0.34,0.192,7.6,0.891,0.335,34.6,31.7,0.135,2.6,0,36.7,Watchlist
+V0202,Subsea Hardware,China,5.7,32,4200.0,0.812,0.037,1.5,0.875,0.658,14.5,54.3,0.116,0.66,1,86.5,Preferred
+V0203,Safety Equipment (PPE),Germany,3.4,14,6400.0,0.292,0.191,7.7,1.004,0.399,21.1,23.4,0.211,0.87,0,38.1,Watchlist
+V0204,Industrial Chemicals,China,3.9,20,16500.0,0.443,0.175,8.5,0.908,0.316,57.1,27.1,0.202,2.06,0,35.5,Watchlist
+V0205,Safety Equipment (PPE),Germany,5.8,18,39900.0,0.763,0.066,3.0,1.03,0.725,27.4,79.9,0.059,0.8,1,75.2,Preferred
+V0206,Instrumentation,Italy,0.4,1,57200.0,0.347,0.148,8.6,1.052,0.789,36.6,44.4,0.128,1.19,1,55.8,Approved
+V0207,Rotating Equipment Spares,India,4.4,19,26900.0,0.564,0.165,3.6,0.823,0.517,38.1,44.7,0.068,1.6,0,56.4,Approved
+V0208,Subsea Hardware,UAE,8.8,62,17300.0,0.68,0.13,8.4,1.179,0.557,39.1,51.4,0.07,1.6,0,62.1,Approved
+V0209,Instrumentation,Germany,3.3,28,26200.0,0.783,0.094,6.3,0.999,0.837,22.0,36.6,0.048,1.93,0,70.2,Approved
+V0210,Rotating Equipment Spares,China,7.8,51,7300.0,0.712,0.147,4.6,0.719,0.514,29.4,69.2,0.079,1.73,1,65.7,Approved
+V0211,Instrumentation,China,2.4,15,11600.0,0.078,0.239,11.4,1.089,0.352,44.2,22.7,0.22,3.88,0,1.6,High Risk
+V0212,Rotating Equipment Spares,China,6.0,45,6400.0,0.746,0.064,9.9,1.009,0.658,29.3,66.1,0.01,0.0,1,75.4,Preferred
+V0213,Rotating Equipment Spares,Nigeria,4.2,31,4300.0,0.317,0.196,7.1,1.195,0.568,42.9,22.4,0.162,4.29,1,35.0,Watchlist
+V0214,Safety Equipment (PPE),India,0.7,9,18000.0,0.203,0.22,11.4,1.021,0.301,38.4,21.6,0.261,3.06,0,19.9,High Risk
+V0215,Rotating Equipment Spares,UAE,1.5,12,15800.0,0.586,0.143,4.3,1.127,0.542,14.6,15.6,0.179,1.59,0,60.0,Approved
+V0216,Instrumentation,Germany,9.9,60,24800.0,0.575,0.071,10.2,1.024,0.514,31.0,62.8,0.087,1.2,0,57.4,Approved
+V0217,Valves & Actuators,China,6.3,30,21800.0,0.29,0.124,10.4,0.837,0.262,33.8,84.8,0.081,1.92,0,46.5,Watchlist
+V0218,Valves & Actuators,India,3.7,29,16600.0,0.671,0.042,1.6,0.746,0.702,1.0,69.3,0.106,2.08,0,84.4,Preferred
+V0219,Safety Equipment (PPE),China,2.5,19,22000.0,0.092,0.191,11.6,1.235,0.342,48.2,17.2,0.065,4.32,0,16.1,High Risk
+V0220,Subsea Hardware,China,1.7,17,12900.0,0.419,0.134,7.9,1.2,0.408,45.2,53.7,0.194,2.45,0,47.4,Watchlist
+V0221,Pipes & Fittings,UAE,4.7,22,19400.0,0.347,0.189,6.6,1.078,0.323,65.6,66.2,0.136,2.15,0,39.4,Watchlist
+V0222,Safety Equipment (PPE),Singapore,2.0,1,6900.0,0.56,0.122,8.0,1.227,0.452,25.7,67.5,0.214,2.21,0,57.8,Approved
+V0223,Rotating Equipment Spares,Nigeria,2.8,22,18600.0,0.409,0.11,6.1,1.145,0.72,21.0,19.5,0.021,1.36,0,66.8,Approved
+V0224,Instrumentation,China,1.8,14,24400.0,0.288,0.16,9.8,1.153,0.469,25.8,34.1,0.211,2.54,1,36.3,Watchlist
+V0225,Rotating Equipment Spares,Nigeria,6.6,22,7300.0,0.864,0.057,3.6,0.827,0.566,26.0,94.6,0.082,1.11,0,76.7,Preferred
+V0226,Electrical Equipment,China,3.3,32,14000.0,0.53,0.142,6.9,1.257,0.41,31.9,63.8,0.101,1.13,0,60.1,Approved
+V0227,Structural Steel,South Korea,3.3,22,7600.0,0.107,0.236,12.6,1.175,0.186,37.3,4.7,0.137,3.91,0,0.5,High Risk
+V0228,Drilling Tools,UAE,0.5,1,8300.0,0.115,0.223,12.4,1.04,0.307,45.5,12.7,0.238,3.94,0,7.6,High Risk
+V0229,Drilling Tools,China,2.1,11,4900.0,0.742,0.132,4.4,0.9,0.683,6.4,26.2,0.154,2.16,0,65.7,Approved
+V0230,Pipes & Fittings,China,4.1,27,41700.0,0.306,0.208,10.9,1.05,0.268,43.1,67.8,0.219,1.29,1,29.6,High Risk
+V0231,Safety Equipment (PPE),China,0.7,4,34900.0,0.495,0.133,3.7,0.755,0.437,21.7,29.3,0.175,2.35,1,56.1,Approved
+V0232,Structural Steel,Singapore,3.1,27,21700.0,0.386,0.102,7.2,1.106,0.35,29.8,50.7,0.092,0.82,0,55.1,Approved
+V0233,Valves & Actuators,United States,3.7,8,78800.0,0.497,0.1,4.5,0.846,0.514,10.8,39.2,0.06,0.84,1,60.9,Approved
+V0234,Rotating Equipment Spares,India,1.5,1,11300.0,0.757,0.059,7.4,1.008,0.874,14.5,64.7,0.01,0.08,1,83.6,Preferred
+V0235,Safety Equipment (PPE),UAE,7.0,17,204600.0,0.339,0.199,7.3,0.977,0.133,36.6,49.2,0.244,1.86,0,42.2,Watchlist
+V0236,Rotating Equipment Spares,Nigeria,4.3,31,10900.0,0.377,0.205,7.9,1.019,0.116,40.4,23.0,0.134,3.8,0,27.0,High Risk
+V0237,Industrial Chemicals,China,2.8,7,16800.0,0.249,0.159,7.1,0.941,0.18,45.6,16.1,0.243,1.93,0,34.2,High Risk
+V0238,Safety Equipment (PPE),Italy,2.1,13,9300.0,0.54,0.07,5.9,0.961,0.619,44.7,35.5,0.133,0.65,1,58.4,Approved
+V0239,Electrical Equipment,United Kingdom,1.2,14,18700.0,0.916,0.038,0.2,1.221,0.831,27.6,46.8,0.08,1.36,1,83.6,Preferred
+V0240,Industrial Chemicals,Nigeria,6.9,62,28300.0,0.318,0.153,6.2,1.229,0.475,45.4,18.6,0.124,1.56,0,43.8,Watchlist
+V0241,Pipes & Fittings,UAE,1.5,12,12100.0,0.069,0.237,8.6,1.178,0.179,69.9,6.5,0.266,4.18,0,0.0,High Risk
+V0242,Drilling Tools,UAE,0.3,4,66100.0,0.078,0.223,12.1,1.081,0.078,52.2,25.2,0.196,2.56,0,7.1,High Risk
+V0243,Valves & Actuators,Italy,1.6,5,16600.0,0.427,0.188,7.4,1.168,0.505,37.1,20.3,0.139,3.27,0,42.8,Watchlist
+V0244,Industrial Chemicals,China,4.9,32,17000.0,0.455,0.195,4.1,1.197,0.329,47.1,65.5,0.18,2.98,0,41.9,Watchlist
+V0245,Industrial Chemicals,Nigeria,4.2,15,5900.0,0.686,0.154,10.0,0.896,0.53,46.6,26.4,0.131,2.71,0,52.1,Watchlist
+V0246,Valves & Actuators,United States,1.4,13,19500.0,0.333,0.137,2.6,0.986,0.307,37.4,46.3,0.078,2.04,1,45.4,Watchlist
+V0247,Rotating Equipment Spares,United States,7.8,50,11800.0,0.597,0.13,9.0,0.742,0.432,15.4,23.0,0.164,2.01,0,58.9,Approved
+V0248,Safety Equipment (PPE),China,1.3,10,7700.0,0.787,0.066,0.9,1.116,0.763,10.5,87.5,0.07,0.0,1,83.6,Preferred
+V0249,Rotating Equipment Spares,China,8.8,73,6600.0,0.398,0.188,12.2,1.344,0.537,32.8,71.8,0.175,1.61,0,31.8,High Risk
+V0250,Valves & Actuators,China,3.9,37,147900.0,0.14,0.209,10.6,1.055,0.146,47.1,8.6,0.136,3.71,0,15.9,High Risk
+V0251,Pipes & Fittings,United Kingdom,2.9,1,10500.0,0.793,0.113,1.9,0.657,0.621,25.4,56.2,0.038,1.76,0,76.4,Preferred
+V0252,Safety Equipment (PPE),United States,2.4,14,3600.0,0.192,0.228,8.6,1.168,0.117,57.5,33.7,0.276,2.67,0,2.7,High Risk
+V0253,Pipes & Fittings,Nigeria,4.1,16,7100.0,0.615,0.091,6.3,0.845,0.674,42.3,32.5,0.18,1.21,1,59.7,Approved
+V0254,Electrical Equipment,UAE,5.4,27,12800.0,0.617,0.126,5.0,0.895,0.653,43.5,63.8,0.16,1.22,0,62.2,Approved
+V0255,Industrial Chemicals,United States,0.5,6,21900.0,0.356,0.174,6.0,1.101,0.676,45.8,69.3,0.107,0.75,1,50.0,Watchlist
+V0256,Pipes & Fittings,United States,2.5,10,22000.0,0.83,0.02,4.1,0.959,0.762,3.3,85.9,0.034,0.01,1,85.7,Preferred
+V0257,Industrial Chemicals,China,3.6,22,24600.0,0.267,0.152,6.1,0.958,0.511,41.4,43.9,0.217,1.91,0,40.8,Watchlist
+V0258,Pipes & Fittings,Nigeria,8.9,52,7500.0,0.819,0.018,0.2,0.8,0.935,4.2,97.5,0.01,0.0,1,95.9,Preferred
+V0259,Pipes & Fittings,United Kingdom,7.8,67,18100.0,0.545,0.158,9.1,1.03,0.222,12.2,78.8,0.099,0.52,1,51.1,Watchlist
+V0260,Drilling Tools,China,9.8,32,6100.0,0.279,0.191,12.1,1.002,0.315,38.0,18.9,0.271,1.6,0,27.3,High Risk
+V0261,Rotating Equipment Spares,United States,7.7,27,7600.0,0.428,0.117,5.4,0.83,0.673,45.3,41.4,0.114,1.19,0,52.8,Watchlist
+V0262,Pipes & Fittings,United States,1.3,12,5800.0,0.243,0.198,8.7,1.004,0.24,45.2,12.8,0.257,2.71,1,17.1,High Risk
+V0263,Instrumentation,China,3.3,6,4600.0,0.256,0.103,4.1,1.089,0.19,61.0,48.9,0.084,1.64,1,48.9,Watchlist
+V0264,Subsea Hardware,Nigeria,7.8,37,34800.0,0.662,0.086,2.1,0.953,0.735,28.6,34.1,0.128,1.75,1,70.2,Approved
+V0265,Subsea Hardware,Nigeria,7.4,72,24800.0,0.589,0.077,5.0,0.76,0.438,54.4,60.1,0.199,0.93,1,64.8,Approved
+V0266,Drilling Tools,UAE,2.9,4,32200.0,0.228,0.168,7.6,1.179,0.335,37.7,35.4,0.149,2.8,1,32.7,High Risk
+V0267,Safety Equipment (PPE),UAE,5.7,25,13800.0,0.844,0.098,3.0,0.54,0.717,21.4,66.5,0.062,0.35,1,75.8,Preferred
+V0268,Electrical Equipment,UAE,3.0,16,26900.0,0.797,0.024,4.9,0.875,0.828,4.2,81.7,0.01,0.0,1,91.2,Preferred
+V0269,Industrial Chemicals,United Kingdom,1.4,7,2700.0,0.916,0.022,0.2,0.835,0.724,30.4,97.4,0.109,0.12,0,84.5,Preferred
+V0270,Drilling Tools,India,3.6,19,29100.0,0.665,0.024,3.7,0.996,0.517,19.2,61.9,0.058,0.0,1,80.5,Preferred
+V0271,Instrumentation,Nigeria,3.7,19,15700.0,0.765,0.028,2.1,1.016,0.797,10.0,76.0,0.054,0.59,1,89.1,Preferred
+V0272,Valves & Actuators,United States,1.7,23,23500.0,0.167,0.225,10.3,1.263,0.254,62.3,22.2,0.143,2.83,0,15.5,High Risk
+V0273,Pipes & Fittings,UAE,5.3,14,18800.0,0.485,0.132,10.6,0.909,0.774,46.8,46.1,0.212,2.78,0,49.0,Watchlist
+V0274,Subsea Hardware,United Kingdom,2.7,9,5500.0,0.333,0.214,11.0,1.131,0.151,51.4,54.9,0.217,2.25,0,18.3,High Risk
+V0275,Safety Equipment (PPE),Nigeria,4.9,28,3500.0,0.686,0.147,6.3,1.023,0.585,24.6,56.5,0.113,2.43,1,60.5,Approved
+V0276,Safety Equipment (PPE),India,6.0,58,7000.0,0.26,0.172,12.3,0.772,0.228,34.5,30.4,0.088,1.22,0,28.3,High Risk
+V0277,Safety Equipment (PPE),South Korea,15.4,78,22200.0,0.431,0.125,2.8,1.293,0.632,30.8,16.7,0.204,1.17,0,52.1,Watchlist
+V0278,Rotating Equipment Spares,Italy,4.1,26,24900.0,0.884,0.035,0.2,0.69,0.764,22.5,68.5,0.017,0.0,1,90.9,Preferred
+V0279,Valves & Actuators,Nigeria,8.1,26,3900.0,0.29,0.138,7.5,1.071,0.358,50.2,16.0,0.072,2.84,0,43.9,Watchlist
+V0280,Valves & Actuators,Nigeria,4.5,13,5500.0,0.593,0.066,2.4,1.038,0.505,30.7,68.1,0.013,2.64,1,64.5,Approved
+V0281,Instrumentation,India,4.4,14,7000.0,0.605,0.081,7.5,1.053,0.438,55.8,20.7,0.098,1.89,1,60.2,Approved
+V0282,Safety Equipment (PPE),United Kingdom,3.4,37,9700.0,0.556,0.103,3.0,0.922,0.576,40.1,74.8,0.044,3.17,1,64.7,Approved
+V0283,Industrial Chemicals,Germany,4.1,26,3900.0,0.329,0.152,7.7,1.124,0.586,27.1,50.8,0.089,1.33,0,54.8,Watchlist
+V0284,Safety Equipment (PPE),Nigeria,3.2,19,3700.0,0.432,0.172,7.2,0.744,0.609,35.9,57.4,0.137,2.1,1,48.3,Watchlist
+V0285,Safety Equipment (PPE),China,7.7,29,6400.0,0.89,0.046,3.0,0.932,0.56,40.0,64.7,0.049,0.0,1,85.1,Preferred
+V0286,Subsea Hardware,China,2.6,17,14400.0,0.864,0.017,0.2,0.833,0.881,39.2,91.0,0.064,0.17,1,91.9,Preferred
+V0287,Pipes & Fittings,Germany,1.0,1,4600.0,0.51,0.062,2.6,0.883,0.569,41.5,42.5,0.07,0.0,1,70.2,Approved
+V0288,Drilling Tools,China,2.6,14,12000.0,0.644,0.098,5.5,1.035,0.792,25.0,46.5,0.097,0.0,1,65.5,Approved
+V0289,Drilling Tools,United Kingdom,1.7,11,34600.0,0.118,0.152,9.7,1.219,0.184,37.8,42.2,0.268,3.29,1,29.3,High Risk
+V0290,Safety Equipment (PPE),United Kingdom,2.3,13,4100.0,0.657,0.152,0.2,0.953,0.248,37.7,54.7,0.107,0.52,0,61.0,Approved
+V0291,Structural Steel,China,3.7,28,11100.0,0.722,0.081,6.1,1.07,0.709,41.6,70.0,0.097,0.95,1,70.4,Approved
+V0292,Instrumentation,United Kingdom,2.7,11,33600.0,0.846,0.074,3.6,0.964,0.842,27.4,81.2,0.01,1.46,1,83.1,Preferred
+V0293,Subsea Hardware,India,3.3,25,9200.0,0.573,0.1,3.3,0.856,0.581,33.5,56.0,0.186,0.92,1,65.9,Approved
+V0294,Electrical Equipment,China,2.7,17,8000.0,0.852,0.077,5.7,0.917,0.675,22.6,78.3,0.056,0.0,1,80.6,Preferred
+V0295,Drilling Tools,Germany,5.2,38,38100.0,0.679,0.092,2.7,0.931,0.477,21.6,47.2,0.15,0.63,1,67.4,Approved
+V0296,Drilling Tools,Germany,15.9,86,10100.0,0.86,0.029,0.4,0.835,0.903,17.3,95.2,0.06,0.0,0,88.8,Preferred
+V0297,Structural Steel,United Kingdom,4.4,27,36100.0,0.678,0.169,6.0,1.05,0.404,29.0,46.4,0.138,1.19,0,57.8,Approved
+V0298,Safety Equipment (PPE),China,2.3,26,19700.0,0.472,0.141,11.6,1.053,0.312,53.8,70.1,0.17,2.08,0,47.3,Watchlist
+V0299,Instrumentation,Nigeria,0.4,1,9800.0,0.647,0.127,9.0,0.745,0.672,24.1,55.4,0.082,0.96,0,59.7,Approved
+V0300,Valves & Actuators,China,11.0,91,20600.0,0.063,0.228,16.3,0.899,0.044,57.0,7.1,0.306,6.33,0,0.0,High Risk
+V0301,Electrical Equipment,United Kingdom,4.6,17,17800.0,0.809,0.142,5.9,1.045,0.773,16.2,73.3,0.065,0.53,0,67.0,Approved
+V0302,Structural Steel,Italy,1.8,14,33500.0,0.053,0.249,19.7,1.06,0.067,71.4,4.3,0.323,6.87,0,0.0,High Risk
+V0303,Valves & Actuators,Singapore,0.3,7,8200.0,0.124,0.226,8.4,1.131,0.268,61.9,7.1,0.178,2.56,0,10.7,High Risk
+V0304,Structural Steel,India,3.5,21,13900.0,0.64,0.109,6.2,1.095,0.694,45.4,79.5,0.117,1.17,0,63.9,Approved
+V0305,Drilling Tools,United Kingdom,4.2,22,12600.0,0.692,0.107,2.6,0.785,0.591,28.1,88.1,0.075,2.14,1,75.5,Preferred
+V0306,Pipes & Fittings,UAE,1.9,6,25200.0,0.169,0.189,10.5,0.846,0.153,47.4,18.5,0.175,3.9,1,15.3,High Risk
+V0307,Electrical Equipment,UAE,0.7,8,5300.0,0.327,0.194,7.7,1.287,0.322,34.6,32.0,0.098,2.01,0,35.0,Watchlist
+V0308,Drilling Tools,United States,1.5,5,33400.0,0.824,0.023,2.9,0.984,0.662,24.0,74.8,0.071,0.59,1,90.7,Preferred
+V0309,Electrical Equipment,UAE,12.1,71,20300.0,0.198,0.141,7.8,0.961,0.471,38.1,30.8,0.144,2.51,0,44.5,Watchlist
+V0310,Pipes & Fittings,China,4.8,19,4100.0,0.913,0.024,0.2,0.748,0.926,10.5,97.9,0.01,0.0,1,95.2,Preferred
+V0311,Industrial Chemicals,China,2.4,21,39600.0,0.356,0.161,6.5,0.924,0.73,31.7,30.9,0.117,2.16,1,43.9,Watchlist
+V0312,Industrial Chemicals,Nigeria,3.9,23,99800.0,0.396,0.07,6.3,0.801,0.658,31.8,42.4,0.108,2.83,1,52.8,Watchlist
+V0313,Pipes & Fittings,China,4.2,23,32900.0,0.871,0.018,1.9,1.052,0.891,11.9,95.6,0.016,0.25,0,90.7,Preferred
+V0314,Instrumentation,China,1.0,10,48300.0,0.605,0.091,5.3,0.877,0.487,25.9,65.6,0.108,1.97,0,61.4,Approved
+V0315,Instrumentation,Germany,6.5,28,14400.0,0.277,0.213,13.3,1.214,0.228,59.5,64.4,0.115,3.31,0,16.7,High Risk
+V0316,Industrial Chemicals,Singapore,3.1,24,3000.0,0.542,0.097,7.1,0.945,0.557,63.5,38.2,0.242,0.41,1,55.5,Approved
+V0317,Rotating Equipment Spares,Nigeria,4.0,26,2500.0,0.257,0.141,7.2,0.845,0.433,15.9,51.5,0.175,2.05,0,45.1,Watchlist
+V0318,Rotating Equipment Spares,Germany,9.1,32,16800.0,0.105,0.226,13.0,1.004,0.254,27.2,11.6,0.195,2.19,0,11.9,High Risk
+V0319,Subsea Hardware,Singapore,1.0,20,7800.0,0.676,0.142,7.7,0.619,0.286,20.8,45.8,0.19,1.35,1,52.0,Watchlist
+V0320,Rotating Equipment Spares,China,1.6,16,5900.0,0.193,0.207,6.1,1.019,0.224,35.4,9.7,0.054,4.36,0,18.7,High Risk
+V0321,Electrical Equipment,United States,5.0,20,12600.0,0.806,0.05,0.2,0.928,0.787,32.4,82.7,0.01,0.36,1,84.6,Preferred
+V0322,Pipes & Fittings,United States,6.8,29,23200.0,0.419,0.114,4.7,1.122,0.655,36.8,57.4,0.098,0.9,1,58.4,Approved
+V0323,Industrial Chemicals,China,2.1,1,3600.0,0.422,0.111,8.8,0.731,0.291,34.6,41.2,0.064,2.95,0,55.1,Approved
+V0324,Subsea Hardware,India,2.2,15,8900.0,0.384,0.17,5.5,1.18,0.59,37.3,39.4,0.113,0.86,0,48.0,Watchlist
+V0325,Subsea Hardware,United States,5.8,41,52000.0,0.641,0.08,7.3,1.112,0.469,19.7,38.5,0.12,0.95,1,58.5,Approved
+V0326,Instrumentation,United States,14.9,135,5100.0,0.698,0.089,4.4,1.157,0.65,21.5,77.9,0.138,2.05,0,71.5,Approved
+V0327,Instrumentation,China,3.5,17,29200.0,0.193,0.195,12.4,1.042,0.503,38.8,11.5,0.108,2.74,0,26.4,High Risk
+V0328,Valves & Actuators,China,1.5,13,8600.0,0.149,0.168,8.6,1.204,0.394,20.4,32.4,0.187,1.34,1,34.1,High Risk
+V0329,Pipes & Fittings,South Korea,1.9,7,21800.0,0.812,0.035,3.6,0.724,0.828,6.1,94.7,0.071,0.87,0,81.3,Preferred
+V0330,Drilling Tools,China,3.1,20,35900.0,0.242,0.199,8.6,1.128,0.71,20.3,67.6,0.156,1.7,1,41.8,Watchlist
+V0331,Drilling Tools,China,6.0,45,26000.0,0.186,0.219,14.3,0.955,0.153,51.9,5.9,0.158,4.54,0,4.1,High Risk
+V0332,Electrical Equipment,United Kingdom,19.0,95,30300.0,0.86,0.059,0.3,0.73,0.447,28.9,51.5,0.169,0.57,1,79.5,Preferred
+V0333,Electrical Equipment,Nigeria,3.0,7,4700.0,0.78,0.099,3.4,0.808,0.495,33.2,70.0,0.094,2.04,1,70.6,Approved
+V0334,Structural Steel,Nigeria,3.3,29,36400.0,0.188,0.218,13.0,1.077,0.176,21.7,14.9,0.278,4.88,0,11.7,High Risk
+V0335,Safety Equipment (PPE),Nigeria,11.1,99,6200.0,0.56,0.214,9.1,0.865,0.215,10.1,29.6,0.07,0.58,1,42.1,Watchlist
+V0336,Structural Steel,China,4.9,18,16900.0,0.47,0.078,4.2,1.02,0.641,31.3,75.4,0.124,0.62,0,67.1,Approved
+V0337,Subsea Hardware,China,4.4,16,16900.0,0.44,0.082,4.1,0.71,0.503,1.0,60.0,0.1,1.54,1,60.5,Approved
+V0338,Electrical Equipment,Germany,9.8,42,20700.0,0.806,0.127,5.9,0.649,0.757,39.0,90.3,0.075,0.13,0,77.6,Preferred
+V0339,Instrumentation,UAE,3.4,25,18100.0,0.122,0.168,12.7,1.276,0.257,20.8,14.8,0.215,3.39,0,22.5,High Risk
+V0340,Subsea Hardware,UAE,1.7,14,6300.0,0.51,0.102,4.0,1.119,0.484,37.1,78.6,0.09,1.03,1,62.9,Approved
+V0341,Industrial Chemicals,UAE,8.2,62,4000.0,0.385,0.208,7.8,0.858,0.531,22.1,20.6,0.01,1.71,1,30.9,High Risk
+V0342,Instrumentation,India,0.6,7,29300.0,0.241,0.159,10.5,1.024,0.511,46.9,20.5,0.01,2.18,0,35.4,Watchlist
+V0343,Industrial Chemicals,China,7.7,61,15800.0,0.607,0.026,7.9,1.109,0.583,60.7,82.3,0.144,0.71,0,68.4,Approved
+V0344,Drilling Tools,United Kingdom,4.2,32,37600.0,0.847,0.026,3.1,0.989,0.749,1.0,92.4,0.115,0.12,1,88.5,Preferred
+V0345,Subsea Hardware,Nigeria,3.6,21,12800.0,0.841,0.047,0.4,0.933,0.561,22.2,77.0,0.134,0.0,1,76.4,Preferred
+V0346,Instrumentation,United Kingdom,3.3,25,3800.0,0.771,0.046,1.7,1.099,0.633,1.0,81.2,0.06,0.0,0,84.8,Preferred
+V0347,Subsea Hardware,Germany,3.2,10,31900.0,0.364,0.103,7.7,0.896,0.36,36.1,22.7,0.06,1.61,0,47.0,Watchlist
+V0348,Subsea Hardware,Nigeria,2.7,9,9600.0,0.672,0.074,4.6,0.987,0.6,24.3,56.0,0.083,1.17,1,74.6,Approved
+V0349,Pipes & Fittings,India,5.4,47,18200.0,0.696,0.052,4.0,0.959,0.53,24.7,82.0,0.086,0.36,1,73.6,Approved
+V0350,Pipes & Fittings,Germany,2.7,28,7500.0,0.514,0.129,3.0,0.953,0.449,18.0,44.7,0.064,1.76,1,55.4,Approved
+V0351,Drilling Tools,Nigeria,3.7,23,58700.0,0.619,0.163,8.8,0.935,0.34,38.2,48.6,0.197,0.0,1,51.3,Watchlist
+V0352,Valves & Actuators,South Korea,0.8,6,6100.0,0.72,0.098,0.5,0.97,0.714,5.2,50.1,0.195,0.04,1,71.6,Approved
+V0353,Instrumentation,Nigeria,3.6,16,9900.0,0.444,0.147,5.1,1.008,0.561,45.4,35.8,0.147,1.41,0,56.7,Approved
+V0354,Safety Equipment (PPE),Germany,2.2,10,14700.0,0.341,0.134,8.6,0.879,0.4,31.7,64.7,0.152,1.63,0,47.9,Watchlist
+V0355,Subsea Hardware,United Kingdom,6.8,23,5000.0,0.46,0.109,12.3,1.141,0.41,16.9,40.2,0.074,3.52,0,48.9,Watchlist
+V0356,Subsea Hardware,Nigeria,3.2,12,18000.0,0.671,0.094,2.9,0.822,0.401,43.4,47.4,0.169,0.92,0,66.3,Approved
+V0357,Pipes & Fittings,Nigeria,6.3,36,57000.0,0.512,0.077,4.3,0.967,0.404,29.2,43.8,0.124,1.76,1,56.6,Approved
+V0358,Structural Steel,China,6.0,20,8600.0,0.502,0.09,3.5,0.939,0.518,49.8,28.8,0.09,0.79,1,55.8,Approved
+V0359,Valves & Actuators,United States,6.2,51,19100.0,0.594,0.084,8.0,1.02,0.596,38.6,48.1,0.114,0.85,1,64.3,Approved
+V0360,Rotating Equipment Spares,South Korea,2.9,4,1100.0,0.486,0.113,0.2,0.701,0.429,23.8,66.3,0.108,0.92,1,58.9,Approved
+V0361,Structural Steel,UAE,4.1,21,12900.0,0.761,0.042,1.1,1.096,0.84,22.2,67.2,0.093,0.62,0,78.7,Preferred
+V0362,Structural Steel,China,5.1,42,10100.0,0.672,0.092,11.6,0.88,0.715,28.0,87.3,0.031,0.34,1,71.7,Approved
+V0363,Instrumentation,United Kingdom,3.4,16,6400.0,0.206,0.218,11.4,1.245,0.151,59.4,19.2,0.23,2.71,0,14.1,High Risk
+V0364,Structural Steel,China,3.6,23,35400.0,0.847,0.056,0.2,0.856,0.858,22.3,82.6,0.05,0.0,1,83.0,Preferred
+V0365,Pipes & Fittings,China,1.5,13,10000.0,0.437,0.184,7.5,1.018,0.493,36.6,49.0,0.2,1.14,0,39.3,Watchlist
+V0366,Drilling Tools,Italy,3.0,14,11400.0,0.183,0.225,11.5,1.37,0.123,42.5,1.9,0.184,4.74,0,4.3,High Risk
+V0367,Safety Equipment (PPE),United States,0.4,1,9500.0,0.307,0.178,11.5,1.011,0.4,38.8,27.2,0.16,3.5,1,37.0,Watchlist
+V0368,Electrical Equipment,United Kingdom,0.3,2,2400.0,0.216,0.166,13.9,1.237,0.261,54.8,23.8,0.105,3.91,0,29.8,High Risk
+V0369,Valves & Actuators,Nigeria,1.3,9,4800.0,0.691,0.102,6.8,1.003,0.298,29.6,77.7,0.156,2.79,0,59.3,Approved
+V0370,Rotating Equipment Spares,China,5.8,55,31700.0,0.445,0.162,5.5,1.076,0.516,27.7,61.6,0.089,2.51,1,52.4,Watchlist
+V0371,Electrical Equipment,China,4.2,40,2000.0,0.479,0.164,9.0,1.027,0.461,26.3,21.8,0.111,1.56,0,41.6,Watchlist
+V0372,Industrial Chemicals,UAE,6.2,32,6700.0,0.714,0.028,2.3,1.096,0.612,17.8,84.2,0.092,0.0,1,78.2,Preferred
+V0373,Safety Equipment (PPE),UAE,2.2,23,9300.0,0.636,0.072,2.3,0.88,0.579,10.1,54.1,0.111,2.26,1,69.9,Approved
+V0374,Electrical Equipment,Singapore,7.6,50,64200.0,0.5,0.144,0.6,0.837,0.461,18.2,40.7,0.02,1.31,1,62.1,Approved
+V0375,Structural Steel,UAE,1.1,15,26700.0,0.707,0.095,0.8,0.884,0.693,44.3,64.8,0.09,3.39,1,69.3,Approved
+V0376,Valves & Actuators,United States,1.6,15,8100.0,0.886,0.04,1.8,0.984,0.64,22.0,62.6,0.132,0.59,1,83.5,Preferred
+V0377,Rotating Equipment Spares,India,6.6,41,43200.0,0.086,0.246,9.8,1.072,0.144,57.4,25.2,0.196,5.69,0,0.0,High Risk
+V0378,Rotating Equipment Spares,South Korea,4.0,25,6900.0,0.397,0.153,7.9,1.125,0.478,3.5,46.8,0.125,1.86,0,49.5,Watchlist
+V0379,Electrical Equipment,India,5.1,38,33100.0,0.081,0.239,10.0,1.305,0.076,56.4,9.7,0.226,5.2,1,0.0,High Risk
+V0380,Instrumentation,Singapore,4.4,42,3900.0,0.446,0.137,0.2,0.852,0.369,27.7,68.1,0.112,3.09,0,54.2,Watchlist
+V0381,Valves & Actuators,India,2.3,10,35100.0,0.694,0.112,3.4,0.89,0.196,24.3,70.5,0.069,0.68,1,66.0,Approved
+V0382,Subsea Hardware,Germany,1.6,13,9300.0,0.718,0.036,1.5,0.732,0.798,22.8,85.5,0.071,0.01,1,84.5,Preferred
+V0383,Subsea Hardware,China,1.0,7,5300.0,0.769,0.108,0.7,1.245,0.585,13.4,92.0,0.116,0.0,1,77.7,Preferred
+V0384,Instrumentation,India,11.7,68,11000.0,0.355,0.146,9.1,1.036,0.575,2.7,67.0,0.058,0.27,0,50.6,Watchlist
+V0385,Valves & Actuators,United States,0.5,9,17100.0,0.266,0.19,6.1,1.097,0.448,45.6,39.7,0.124,2.75,0,29.4,High Risk
+V0386,Pipes & Fittings,Nigeria,9.6,35,8600.0,0.423,0.107,6.6,0.775,0.707,28.5,82.1,0.029,0.89,1,63.6,Approved
+V0387,Valves & Actuators,UAE,3.8,24,22000.0,0.42,0.13,7.6,1.026,0.222,31.0,34.2,0.191,2.23,0,51.0,Watchlist
+V0388,Structural Steel,Singapore,4.5,26,7900.0,0.808,0.171,5.9,1.076,0.494,18.4,50.6,0.115,2.1,1,59.5,Approved
+V0389,Structural Steel,Singapore,4.7,25,23300.0,0.735,0.036,0.8,0.913,0.881,3.5,92.1,0.033,0.0,0,86.1,Preferred
+V0390,Pipes & Fittings,United Kingdom,5.2,33,19900.0,0.18,0.177,7.6,1.189,0.652,37.7,66.5,0.15,3.37,0,36.8,Watchlist
+V0391,Rotating Equipment Spares,India,2.2,13,12600.0,0.807,0.029,1.5,1.306,0.806,42.1,70.7,0.024,0.4,0,80.6,Preferred
+V0392,Pipes & Fittings,India,0.6,8,9000.0,0.613,0.027,4.3,0.824,0.708,26.3,59.4,0.038,1.33,1,78.8,Preferred
+V0393,Electrical Equipment,United Kingdom,1.9,20,15300.0,0.378,0.202,8.5,0.894,0.182,22.0,53.0,0.09,3.21,0,31.1,High Risk
+V0394,Drilling Tools,China,5.5,36,21900.0,0.741,0.037,0.5,0.82,0.803,23.9,84.7,0.023,1.76,1,80.5,Preferred
+V0395,Rotating Equipment Spares,China,1.7,18,85400.0,0.631,0.027,6.2,1.206,0.641,23.1,73.5,0.156,0.74,1,72.0,Approved
+V0396,Structural Steel,India,7.7,58,31100.0,0.508,0.137,6.7,1.151,0.62,39.5,46.4,0.079,0.0,0,56.9,Approved
+V0397,Valves & Actuators,Nigeria,3.0,12,32200.0,0.366,0.226,7.3,1.018,0.249,44.1,36.0,0.178,2.49,0,27.1,High Risk
+V0398,Pipes & Fittings,Singapore,0.9,1,215300.0,0.237,0.219,9.1,1.048,0.289,1.9,27.6,0.117,2.73,0,21.9,High Risk
+V0399,Instrumentation,United States,3.9,32,21300.0,0.283,0.158,7.5,0.904,0.406,41.4,24.5,0.182,1.26,1,41.0,Watchlist
+V0400,Electrical Equipment,Singapore,5.3,43,20700.0,0.639,0.083,2.1,1.106,0.668,13.1,66.8,0.044,1.14,0,75.1,Preferred
+V0401,Subsea Hardware,United States,4.9,35,25200.0,0.148,0.214,9.2,0.991,0.364,21.5,30.2,0.165,2.33,0,18.0,High Risk
+V0402,Rotating Equipment Spares,India,7.6,25,5400.0,0.681,0.132,3.0,0.939,0.513,23.8,54.5,0.103,0.0,1,67.6,Approved
+V0403,Electrical Equipment,China,0.4,1,9000.0,0.101,0.201,7.6,1.153,0.126,46.1,34.5,0.292,3.57,0,16.4,High Risk
+V0404,Subsea Hardware,Nigeria,7.3,24,8500.0,0.379,0.143,2.6,0.982,0.712,12.1,69.1,0.161,1.32,1,53.2,Watchlist
+V0405,Safety Equipment (PPE),Germany,7.9,62,23900.0,0.633,0.127,4.8,0.959,0.851,37.5,71.0,0.085,1.11,0,68.7,Approved
+V0406,Drilling Tools,Italy,2.2,14,11400.0,0.926,0.014,0.2,0.879,0.923,17.2,92.2,0.044,0.0,1,94.9,Preferred
+V0407,Safety Equipment (PPE),Germany,0.9,21,15100.0,0.204,0.212,8.7,1.188,0.116,43.0,28.7,0.289,4.23,0,14.4,High Risk
+V0408,Pipes & Fittings,China,6.8,39,35600.0,0.845,0.03,7.6,1.173,0.711,6.3,84.3,0.01,0.0,1,84.2,Preferred
+V0409,Subsea Hardware,United Kingdom,2.7,7,29100.0,0.692,0.163,7.7,1.08,0.623,16.9,30.5,0.071,1.51,0,59.0,Approved
+V0410,Valves & Actuators,China,8.9,53,11600.0,0.73,0.137,7.9,1.1,0.784,38.6,72.9,0.09,0.75,1,72.1,Approved
+V0411,Pipes & Fittings,China,10.4,93,7300.0,0.596,0.133,7.6,0.964,0.339,10.8,56.1,0.094,1.89,0,53.3,Watchlist
+V0412,Instrumentation,UAE,1.4,11,37100.0,0.738,0.153,9.2,0.872,0.589,38.8,92.9,0.083,2.33,1,60.5,Approved
+V0413,Instrumentation,India,1.8,14,26800.0,0.553,0.123,4.5,1.106,0.501,29.4,73.0,0.062,2.35,1,63.1,Approved
+V0414,Pipes & Fittings,India,4.5,14,3100.0,0.819,0.071,0.2,0.953,0.873,15.8,89.7,0.125,0.62,1,86.0,Preferred
+V0415,Valves & Actuators,Germany,0.3,1,10100.0,0.222,0.179,6.3,0.809,0.346,13.6,42.5,0.069,2.65,1,37.8,Watchlist
+V0416,Industrial Chemicals,India,1.0,1,15500.0,0.826,0.155,3.8,0.894,0.514,18.0,79.8,0.059,0.0,1,80.4,Preferred
+V0417,Subsea Hardware,Germany,1.4,1,26900.0,0.374,0.133,8.4,1.02,0.455,43.2,18.1,0.201,1.52,1,47.7,Watchlist
+V0418,Pipes & Fittings,China,12.8,68,30300.0,0.625,0.104,6.9,0.926,0.67,14.5,18.9,0.121,1.48,0,66.9,Approved
+V0419,Instrumentation,China,4.0,23,17200.0,0.152,0.21,12.7,1.276,0.262,45.6,13.3,0.119,2.13,0,15.2,High Risk
+V0420,Drilling Tools,UAE,2.3,7,22600.0,0.521,0.103,5.5,1.049,0.673,27.0,61.4,0.032,0.14,1,62.3,Approved
+V0421,Subsea Hardware,Germany,2.0,6,14200.0,0.868,0.082,3.4,1.134,0.745,9.3,47.6,0.043,0.0,1,80.0,Preferred
+V0422,Industrial Chemicals,China,1.2,1,7300.0,0.466,0.106,3.9,1.043,0.352,41.0,37.3,0.086,0.47,1,59.5,Approved
+V0423,Rotating Equipment Spares,Nigeria,2.2,13,10600.0,0.227,0.172,3.9,1.022,0.626,5.3,39.8,0.139,1.59,0,45.6,Watchlist
+V0424,Drilling Tools,UAE,1.7,15,13600.0,0.237,0.224,13.6,0.915,0.316,44.2,19.8,0.1,2.76,1,16.7,High Risk
+V0425,Safety Equipment (PPE),China,2.9,20,12900.0,0.223,0.168,7.0,1.013,0.532,51.5,31.4,0.171,1.14,1,37.3,Watchlist
+V0426,Pipes & Fittings,United States,4.6,39,2400.0,0.102,0.204,9.5,1.082,0.379,61.6,11.7,0.197,3.42,0,14.6,High Risk
+V0427,Structural Steel,South Korea,3.1,30,9300.0,0.397,0.221,7.4,0.841,0.183,42.9,59.3,0.171,2.21,0,25.3,High Risk
+V0428,Structural Steel,UAE,6.5,24,14100.0,0.774,0.152,3.7,0.908,0.467,24.3,68.6,0.182,2.33,1,65.8,Approved
+V0429,Valves & Actuators,China,3.4,24,10400.0,0.728,0.051,0.2,0.886,0.796,10.5,73.2,0.039,0.0,0,86.6,Preferred
+V0430,Rotating Equipment Spares,Germany,12.0,108,10700.0,0.929,0.007,0.2,0.922,0.902,1.1,95.4,0.01,0.0,1,93.8,Preferred
+V0431,Valves & Actuators,United Kingdom,6.1,34,20700.0,0.33,0.178,4.1,1.099,0.496,41.8,33.9,0.119,2.43,1,43.0,Watchlist
+V0432,Rotating Equipment Spares,Germany,4.9,14,5100.0,0.91,0.032,0.9,0.841,0.777,7.4,72.4,0.046,0.0,1,87.9,Preferred
+V0433,Structural Steel,United Kingdom,5.3,44,3100.0,0.51,0.129,3.7,1.058,0.4,36.9,41.4,0.104,1.25,0,58.2,Approved
+V0434,Pipes & Fittings,Nigeria,2.2,14,9800.0,0.39,0.138,9.3,0.98,0.48,57.0,65.5,0.085,0.65,0,49.6,Watchlist
+V0435,Safety Equipment (PPE),United States,3.2,22,26600.0,0.79,0.064,5.3,0.548,0.633,25.4,53.5,0.01,1.03,0,81.1,Preferred
+V0436,Pipes & Fittings,China,2.9,18,61000.0,0.469,0.082,6.5,0.924,0.668,13.3,30.8,0.089,0.86,0,60.8,Approved
+V0437,Drilling Tools,South Korea,1.9,5,27000.0,0.629,0.089,3.8,1.156,0.595,12.9,52.2,0.133,1.82,0,67.6,Approved
+V0438,Subsea Hardware,China,0.8,3,3600.0,0.22,0.165,7.0,0.768,0.485,43.0,41.2,0.145,0.84,1,42.2,Watchlist
+V0439,Valves & Actuators,China,4.9,23,10800.0,0.152,0.215,11.4,1.087,0.254,41.9,4.2,0.243,3.15,0,9.2,High Risk
+V0440,Electrical Equipment,United Kingdom,6.5,26,16800.0,0.087,0.224,12.7,1.315,0.18,54.4,15.1,0.287,3.81,0,3.9,High Risk
+V0441,Subsea Hardware,India,5.2,37,15700.0,0.563,0.092,3.7,0.853,0.541,17.7,80.4,0.129,1.7,1,64.8,Approved
+V0442,Electrical Equipment,Germany,3.3,24,21700.0,0.526,0.124,9.6,1.014,0.487,42.5,51.4,0.202,1.22,0,51.3,Watchlist
+V0443,Pipes & Fittings,Singapore,14.0,116,5900.0,0.317,0.21,7.9,0.834,0.319,33.5,75.5,0.185,2.27,1,27.4,High Risk
+V0444,Safety Equipment (PPE),United Kingdom,2.1,7,14200.0,0.46,0.114,8.0,1.244,0.759,21.1,73.3,0.205,1.76,1,62.4,Approved
+V0445,Drilling Tools,United States,4.7,9,19500.0,0.644,0.054,2.2,0.948,0.837,18.0,88.4,0.177,2.12,1,73.3,Approved
+V0446,Industrial Chemicals,China,7.9,73,28100.0,0.527,0.128,0.9,0.998,0.648,14.0,92.0,0.159,0.07,1,69.7,Approved
+V0447,Electrical Equipment,Nigeria,1.1,7,6500.0,0.341,0.11,8.8,1.236,0.413,59.8,47.1,0.185,1.5,0,47.6,Watchlist
+V0448,Subsea Hardware,Singapore,6.2,36,9800.0,0.868,0.028,3.9,1.038,0.754,17.8,81.4,0.055,2.78,1,78.0,Preferred
+V0449,Drilling Tools,UAE,12.0,82,1200.0,0.638,0.047,2.4,0.79,0.664,23.5,92.5,0.047,0.0,1,79.9,Preferred
+V0450,Instrumentation,Nigeria,3.8,28,7600.0,0.543,0.039,5.5,0.878,0.586,19.1,52.4,0.081,0.0,1,64.9,Approved
