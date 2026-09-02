@@ -5,7 +5,7 @@ Generates a realistic oil & gas procurement vendor dataset for the
 Vendor Reliability Scoring project.
 
 Design idea (the psych/econ bridge):
-Each vendor has a hidden ("latent") underlying reliability trait —
+Each vendor has a hidden ("latent") underlying reliability trait
 similar to how psychometrics treats traits like conscientiousness as
 unobservable but expressed through multiple measurable indicators.
 We never give the model this latent trait directly. Instead, we let
@@ -18,7 +18,7 @@ it drive noisy, imperfect observable signals across three domains:
 
 This mirrors real procurement practice: you never see "reliability"
 directly, you infer it from a mix of hard operational data and softer
-behavioral signals — exactly the kind of measurement problem
+behavioral signals, exactly the kind of measurement problem
 psychology is built to handle, applied to an economic decision.
 """
 
