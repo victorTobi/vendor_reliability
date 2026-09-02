@@ -496,19 +496,19 @@ with tab_about:
         volatility across quotes, and dispute frequency.</p>
 
         <p><strong>Why behavioral signals.</strong> Two vendors can look identical on
-        paper — same on-time rate, same defect rate — and still differ in how much
+        paper same on-time rate, same defect rate and still differ in how much
         friction they create: slow RFQ turnarounds, price gamesmanship, frequent
         renegotiation. Those patterns are measurable, and they show up before a
         delivery problem does.</p>
 
         <p><strong>How the score behaves.</strong> Once a vendor's defect rate passes
-        roughly 15%, the score takes a disproportionate hit rather than a gradual one —
+        roughly 15%, the score takes a disproportionate hit rather than a gradual one
         modeled on loss aversion: trust erodes in a cliff, not a slope, once quality
         problems repeat. That non-linearity is also where the gradient boosting model
         earns a real edge over a plain linear one.</p>
 
         <p><strong>Data.</strong> Every vendor here is synthetic, generated from a
-        hidden reliability trait that drives the observable features with noise —
+        hidden reliability trait that drives the observable features with noise
         no confidential vendor or company data is used.</p>
         </div>
         """,
